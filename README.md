@@ -1,0 +1,2 @@
+# Image-Classification-Using-a-Hand-crafted-Feature-Approach
+Hey, this is my Computer Vision project. I worked on an image classification project using a hand-crafted features approach on TinyImageNet100 dataset, it has 100 classes containing 500 images each. The class names are named with “n” plus a digital number. The semantic class names can be found in the “class_name.txt” file in the same folder.
